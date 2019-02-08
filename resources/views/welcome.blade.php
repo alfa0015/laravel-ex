@@ -83,6 +83,7 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
+                <div style="text-align: center; font-size: x-large"></div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
